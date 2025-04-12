@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wmanfrompoland
-- 👀 I’m interested in programing(of course)
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in programing(of course), and also robotics
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: discord - xtagz_
+- 📫 How to reach me: discord - xtagz_69
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love "pierogi" :)
 
